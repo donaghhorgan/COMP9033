@@ -4,13 +4,17 @@ Lab notebooks for the module [*COMP9033 - Data Analytics*](http://courses.cit.ie
 
 ## Usage
 
-Lab work is provided in the form of [Jupyter Notebooks](https://jupyter.org/). To run the notebooks, you will need the following Python packages:
+Lab work is provided in the form of [Jupyter Notebooks](https://jupyter.org/). To run the notebooks, you will need Python, IPython, Jupyter Notebook and the following Python packages:
 
 - numpy
 - scipy
 - pandas
 - matplotlib
 - scikit-learn
+
+To start the notebook server, run the following command:
+
+    jupyter notebook
 
 ### Docker
 
