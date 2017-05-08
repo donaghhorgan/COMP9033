@@ -20,7 +20,7 @@ To start the notebook server, run the following command:
 
     jupyter notebook
 
-For notebooks 10 and 11, you will also need access to a local pyspark kernel or, alternatively, you can use Docker (see below).
+For notebooks 10-12, you will also need access to a local pyspark kernel or, alternatively, you can use Docker (see below).
 
 ### Docker
 
@@ -30,7 +30,7 @@ Lab notebooks 01-09 can also be run with the [*Jupyter Data Science Notebook*](h
 
 For more information, see the [notebook documentation](https://github.com/jupyter/docker-stacks/tree/master/datascience-notebook).
 
-Labs 10 and 11 can be run with the [*Jupyter PySpark Notebook*](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) Docker image. To start the notebook, run the following command:
+Labs 10-12 can be run with the [*Jupyter PySpark Notebook*](https://github.com/jupyter/docker-stacks/tree/master/pyspark-notebook) Docker image. To start the notebook, run the following command:
 
     docker run -it --rm -p 127.0.0.1:8888:8888 -v /path/to/labs:/home/jovyan/work jupyter/pyspark-notebook
 
