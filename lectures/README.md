@@ -1,6 +1,6 @@
-# COMP9033 - Data Analytics: Lecture notes
+# Lecture notes
 
-Lecture notes for the module [*COMP9033 - Data Analytics*](http://courses.cit.ie/index.cfm/page/module/moduleId/11079).
+Lecture notes for the module [*COMP9033 - Data Analytics*](http://tel.cit.ie/msc-in-cloud-computing).
 
 ## License
 

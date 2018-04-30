@@ -1,6 +1,6 @@
-# COMP9033 - Data Analytics: Lab notebooks
+# Lab notebooks and data
 
-Lab notebooks for the module [*COMP9033 - Data Analytics*](http://courses.cit.ie/index.cfm/page/module/moduleId/11079).
+Lab notebooks and data for the module [*COMP9033 - Data Analytics*](http://tel.cit.ie/msc-in-cloud-computing).
 
 ## Usage
 
