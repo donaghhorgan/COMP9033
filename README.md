@@ -2,12 +2,15 @@
 
 Lecture notes and lab notebooks for the module [*COMP9033 - Data Analytics*](http://tel.cit.ie/msc-in-cloud-computing).
 
-## Layout
-
 The repository is organised as follows:
 
-- `lectures`: Lecture notes.
-- `labs`: Lab notebooks and data.
+- [`lectures`](./lectures): Lecture notes.
+- [`labs`](./labs): Lab notebooks and data.
+
+## Notes from previous years
+
+- [2017](https://github.com/donaghhorgan/COMP9033/archive/2017.zip)
+- [2018](https://github.com/donaghhorgan/COMP9033/archive/2018.zip)
 
 ## License
 
